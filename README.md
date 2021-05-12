@@ -1,4 +1,4 @@
-### Helloo 😁✨
+### Hi 😁
 
 *I'm Lakshan. I'm a person who loves to make open-source projects*
 
