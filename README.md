@@ -12,9 +12,9 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2021 - 06 August, 2021
+Week: 01 August, 2021 - 07 August, 2021
 
-Java   9 mins          █████████████████████████   100.00 % 
+Java   1 hr 5 mins     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
