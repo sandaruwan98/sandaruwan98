@@ -12,7 +12,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2021 - 29 August, 2021
+Week: 24 August, 2021 - 30 August, 2021
 
 JavaScript   6 hrs 29 mins   ███████████████░░░░░░░░░░   60.11 % 
 JSX          1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 % 
