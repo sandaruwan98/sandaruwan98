@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Seer (A Diabetic Retinopathy Detection System)<br><br>🌱 I’m currently learning TensorFlow and OpenCV<br><br>📫 How to reach me lakshansandaruwan1998@gmail.com
+👋 Hi, I'm Lakshan! I'm a Software Engineer at Pagero, specializing in **Scala** and **React** to build scalable and efficient applications.<br>
 
+🌱 I’m currently exploring **TensorFlow** and **OpenCV** to expand my skills in machine learning and computer vision.<br>
+
+📫 Reach me at: [lakshansandaruwan1998@gmail.com](mailto:lakshansandaruwan1998@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshanjayasinghe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lakshansandaruwan1137) 
