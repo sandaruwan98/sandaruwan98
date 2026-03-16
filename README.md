@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Lakshan! I'm a Software Engineer at Pagero, specializing in **Scala** and **React** to build scalable and efficient applications.<br>
 
-🌱 I’m currently exploring **TensorFlow** and **OpenCV** to expand my skills in machine learning and computer vision.<br>
+🌱 I’m currently exploring **LangChain** and **LangGraph** to expand my skills in building agentic AI systems.<br>
 
 📫 Reach me at: [lakshansandaruwan1998@gmail.com](mailto:lakshansandaruwan1998@gmail.com)
 
